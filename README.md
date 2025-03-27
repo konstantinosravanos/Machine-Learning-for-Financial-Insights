@@ -61,7 +61,7 @@ This project focuses on predicting continuous outcomes such as potential loan am
 ---
 
 📌 **Author**:  
-Stylianou L.
+Ravanos Konstantinos Panagiotis.
 
 📜 **License**:  
 MIT License – Free to use, modify, and distribute.
