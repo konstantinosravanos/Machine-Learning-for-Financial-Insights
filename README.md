@@ -29,7 +29,7 @@ This project applies clustering techniques (such as K-means and PCA visualizatio
 ---
 
 ### 📈 Regression with Loan Application Dataset  
-**Notebook**: `stylianou_l_regression.ipynb`  
+**Notebook**: `Loan Prediction_Test Data_regression.ipynb`  
 **Dataset**: `Loan Prediction_Test Data.csv`  
 **Description**:  
 This project focuses on predicting continuous outcomes such as potential loan amounts or loan-related scores. Regression models like Linear and Ridge Regression are used to model the relationship between borrower attributes and predicted values.  
