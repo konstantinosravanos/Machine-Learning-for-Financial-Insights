@@ -11,7 +11,7 @@ Data science and machine learning projects using classification, clustering, and
 ---
 
 ### ✅ Classification with Loan Sanction Dataset  
-**Notebook**: `stylianou_l_classification.ipynb`  
+**Notebook**: `loan_sanction_test_classification.ipynb`  
 **Dataset**: `loan_sanction_test.csv`  
 **Description**:  
 This project focuses on building a classification model to predict loan approval outcomes. Using features like income, credit history, and marital status, it classifies whether a borrower is likely to receive a loan.  
