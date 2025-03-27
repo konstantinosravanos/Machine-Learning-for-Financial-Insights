@@ -20,7 +20,7 @@ This project focuses on building a classification model to predict loan approval
 ---
 
 ### 🧠 Clustering with Borrower Behavior Dataset  
-**Notebook**: `stylianou_l_clustering.ipynb`  
+**Notebook**: `Kmeans_assignment_data_clustering.ipynb`  
 **Dataset**: `Kmeans_assignment_data.csv`  
 **Description**:  
 This project applies clustering techniques (such as K-means and PCA visualization) to group borrowers based on behavioral and financial patterns. The goal is to segment loan applicants into distinct groups to support better decision-making.  
