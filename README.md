@@ -55,7 +55,7 @@ This project focuses on predicting continuous outcomes such as potential loan am
 
 📂 Project Structure:
 
-├── stylianou_l_classification.ipynb ├── stylianou_l_regression.ipynb ├── Kmeans_assignment_data_clustering.ipynb ├── loan_sanction_test.csv ├── Loan Prediction_Test Data.csv ├── Kmeans_assignment_data.csv └── README.md
+├── loan_sanction_test_classification.ipynb ├── Loan Prediction_Test Data_regression.ipynb ├── Kmeans_assignment_data_clustering.ipynb ├── loan_sanction_test.csv ├── Loan Prediction_Test Data.csv ├── Kmeans_assignment_data.csv └── README.md
 
 
 ---
